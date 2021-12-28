@@ -1,0 +1,11 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Server/ Backend for Meetcon_Social",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ratan_Patil, Atharva_Patilpate, Prakhar_Rai",
+  "license": "ISC"
+}
